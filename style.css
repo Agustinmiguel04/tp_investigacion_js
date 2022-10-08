@@ -1,38 +1,38 @@
-cuerpo {
-    color de fondo : gris oscuro ;
+body{
+    background-color: darkgray;
 }
 h1 {
-    alineación de texto : centro;
-    margen superior :  30 px ;
-    tamaño de fuente :  30 px ;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
 }
 h2 {
-    alineación de texto : centro;
-    margen superior :  30 px ;
-    tamaño de fuente :  30 px ;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
 }
 h3 {
-    alineación de texto : centro;
-    margen superior :  30 px ;
-    tamaño de fuente :  30 px ;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
 }
 h4 {
-    alineación de texto : centro;
-    margen superior :  30 px ;
-    tamaño de fuente :  30 px ;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
 }
 h5 {
-    alineación de texto : centro;
-    margen superior :  30 px ;
-    tamaño de fuente :  30 px ;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
 }
 h6 {
-    alineación de texto : centro;
-    margen superior :  30 px ;
-    tamaño de fuente :  30 px ;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
 }
 p{
-    alineación de texto : centro;
-    margen superior :  40 px ;
-    tamaño de fuente :  40 px ; 
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
 }
