@@ -1,1 +1,38 @@
-f
+cuerpo {
+    color de fondo : gris oscuro ;
+}
+h1 {
+    alineación de texto : centro;
+    margen superior :  30 px ;
+    tamaño de fuente :  30 px ;
+}
+h2 {
+    alineación de texto : centro;
+    margen superior :  30 px ;
+    tamaño de fuente :  30 px ;
+}
+h3 {
+    alineación de texto : centro;
+    margen superior :  30 px ;
+    tamaño de fuente :  30 px ;
+}
+h4 {
+    alineación de texto : centro;
+    margen superior :  30 px ;
+    tamaño de fuente :  30 px ;
+}
+h5 {
+    alineación de texto : centro;
+    margen superior :  30 px ;
+    tamaño de fuente :  30 px ;
+}
+h6 {
+    alineación de texto : centro;
+    margen superior :  30 px ;
+    tamaño de fuente :  30 px ;
+}
+p{
+    alineación de texto : centro;
+    margen superior :  40 px ;
+    tamaño de fuente :  40 px ; 
+}
